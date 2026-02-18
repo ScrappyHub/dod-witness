@@ -1,0 +1,8 @@
+﻿# scratch / temp
+scripts/_scratch/
+proofs/_tmp/
+*.log
+
+# OS / tooling
+Thumbs.db
+.DS_Store
