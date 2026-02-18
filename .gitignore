@@ -6,3 +6,5 @@ proofs/_tmp/
 # OS / tooling
 Thumbs.db
 .DS_Store
+proofs/
+.vscode/
