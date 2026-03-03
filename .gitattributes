@@ -1,0 +1,14 @@
+# DOD Witness Kit - canonical text normalization
+* text=auto eol=lf
+*.ps1 text eol=lf
+*.psm1 text eol=lf
+*.psd1 text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.json text eol=lf
+*.ndjson text eol=lf
+*.tsv text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.gitattributes text eol=lf
+*.gitignore text eol=lf
