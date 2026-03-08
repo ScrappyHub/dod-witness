@@ -9,3 +9,9 @@ scripts/_scratch/
 Thumbs.db
 *.swp
 *.tmp
+
+*.bak_*.ps1
+*.bak_*.md
+*.bak_*.txt
+*.bak_*.gitattributes
+*.bak_*.gitignore
